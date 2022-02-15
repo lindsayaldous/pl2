@@ -4,7 +4,7 @@ Geom 99 - Web GIS Development
 ## Week 3 Checklist
 
 GeoJSON ArcGIS Online Web Map URL:
-  https://fleming.maps.arcgis.com/home/item.html?id=a2ec1e6d76cc45baa8b0fef56d3dbfa2
+<br> https://fleming.maps.arcgis.com/home/item.html?id=a2ec1e6d76cc45baa8b0fef56d3dbfa2
 
 ## Week 4 Checklist
 
