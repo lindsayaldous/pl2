@@ -9,17 +9,14 @@ GeoJSON ArcGIS Online Web Map URL:
 ## Week 4 Checklist
 
 3 links to hosted feature layer item & data:
-<br> /
-<br> /
-<br> /
-
-one of them: https://services1.arcgis.com/pMeXRvgWClLJZr3s/arcgis/rest/services/fall_geom65_tree_survey/FeatureServer/0
-
+<br> https://developers.arcgis.com/layers/6db968155a1c4f849e937da950a2139b/
+<br> https://fleming.maps.arcgis.com/home/item.html?id=6db968155a1c4f849e937da950a2139b#
+<br> https://services1.arcgis.com/pMeXRvgWClLJZr3s/arcgis/rest/services/fall_geom65_tree_survey/FeatureServer/0 
 
 Tutorial items to submit:
 <br> https://lindsayaldous.github.io/pl2/displaymap
 <br> https://lindsayaldous.github.io/pl2/pointlinepolygon
-<br> /
+<br> 
 
 Themed map:
 <br> /
