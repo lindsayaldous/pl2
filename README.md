@@ -9,14 +9,14 @@ GeoJSON ArcGIS Online Web Map URL:
 ## Week 4 Checklist
 
 3 links to hosted feature layer item & data:
-/
-/
-/
+<br> /
+<br> /
+<br> /
 
 Tutorial items to submit:
-https://lindsayaldous.github.io/pl2/displaymap
-https://lindsayaldous.github.io/pl2/pointlinepolygon
-/
+<br> https://lindsayaldous.github.io/pl2/displaymap
+<br> https://lindsayaldous.github.io/pl2/pointlinepolygon
+<br> /
 
 Themed map:
-/
+<br> /
