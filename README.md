@@ -16,7 +16,7 @@ GeoJSON ArcGIS Online Web Map URL:
 Tutorial items to submit:
 <br> https://lindsayaldous.github.io/pl2/displaymap
 <br> https://lindsayaldous.github.io/pl2/pointlinepolygon
-<br> 
+<br> https://lindsayaldous.github.io/pl2/findplaces
 
 Themed map:
 <br> /
