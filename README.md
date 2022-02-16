@@ -19,4 +19,4 @@ Tutorial items to submit:
 <br> https://lindsayaldous.github.io/pl2/findplaces
 
 Themed map:
-<br> /
+<br> https://lindsayaldous.github.io/pl2/valentinesdaydates
